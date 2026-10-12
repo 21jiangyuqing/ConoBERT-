@@ -1,1 +1,9 @@
 # ConoBERT-
+python=3.11
+pandas==2.2.3
+numpy==1.26.4
+torch==2.5.0
+datasets==3.0.1
+transformers==4.44.0
+peft==0.15.1
+scikit-learn==1.2.2
